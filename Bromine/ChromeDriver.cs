@@ -8,6 +8,9 @@ namespace Bromine
 	/// </summary>
 	public static class ChromeUtil
 	{
+		/// <summary>
+		/// 
+		/// </summary>
 		public const string NAME = "chromedriver";
 
 		public static ChromeDriver CreateQuietHeadless(params string[] extraArgs)
