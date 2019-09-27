@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Read Stanton (Decimation)</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/Decimation/Bromine</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C# Selenium library</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Utilities common Selenium</tags>
+	<iconUrl>https://github.com/Decimation/Bromine/raw/master/icon64.png</iconUrl>
+  </metadata>
+</package>
